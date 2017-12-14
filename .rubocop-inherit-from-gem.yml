@@ -1,0 +1,6 @@
+inherit_gem:
+  rubocop-inheritance-bug-gem:
+    - rubocop.yml
+
+RSpec/FilePath:
+  Enabled: false

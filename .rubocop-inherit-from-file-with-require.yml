@@ -1,0 +1,8 @@
+require:
+  - rubocop-rspec
+
+inherit_from:
+  - ./.inherited-rubocop.yml
+
+RSpec/FilePath:
+  Enabled: false
